@@ -1,1 +1,1 @@
-# Examnples of numpy, Pandas, Seaborn, Machine learning
+#### Examples of numpy, Pandas, Seaborn, Machine learning
